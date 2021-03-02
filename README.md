@@ -18,9 +18,9 @@ Located in Toronto, Ontario, Canada
 </details>
 <details>
 <summary>Filmography Services</summary>
-*Mini Film
-*Feature Film
-*Documentary Film
+*MINI FILM
+*FEATURE FILM
+*DOCUMENTARY FILM
 </details>
 
 ### Why We Do?
