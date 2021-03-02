@@ -17,10 +17,10 @@ Located in Toronto, Ontario, Canada
 *FASHION 
 </details>
 <details>
-<summary>Print Services</summary>
-*SQUARE
-*LANDSCAPE
-*PORTRAITS
+<summary>Filmography Services</summary>
+*Mini Film
+*Feature Film
+*Documentary Film
 </details>
 
 ### Why We Do?
